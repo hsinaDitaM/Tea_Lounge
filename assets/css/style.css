@@ -425,13 +425,15 @@ pre code { font-size: 15px !important; }
 
 .youtube-iframe-wrapper iframe, .youtube-iframe-wrapper object, .youtube-iframe-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-html, body, input, textarea, select, button { color: rgba(255, 250, 229, 0.87) !important; background-color: #fffae5 !important; }
+html, input, textarea, select, button { color: rgba(255, 250, 229, 0.87) !important; background-color: #fffae5 !important; }
+
+body { color: rgba(255, 250, 229, 0.87) !important; background-color: #935f4c !important; }
 
 a { color: #935f4c !important; }
 
 a:hover { color: rgba(255, 250, 229, 0.87) !important; }
 
-.site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 250, 229, 0.87) !important; }
+.site-title, .site-title:visited, .site-nav, .page-link { color: #935f4c !important; }
 
 .site-nav { background-color: #935f4c; border-color: #a27565; }
 
@@ -439,19 +441,19 @@ a:hover { color: rgba(255, 250, 229, 0.87) !important; }
 
 pre, code { border-color: #a27565; background-color: #986755; }
 
-.page-description { color: rgba(255, 250, 229, 0.69); }
+.page-description { color: #935f4c; }
 
-.post-meta { color: rgba(255, 250, 229, 0.38); }
+.post-meta { color: #935f4c !important; }
 
-.post-content p, .post-content li { color: rgba(255, 250, 229, 0.69); }
+.post-content p, .post-content li { color: #935f4c; }
 
-.btn { background-color: #986755 !important; color: rgba(255, 250, 229, 0.87) !important; border-color: #a27565 !important; }
+.btn { background-color: #986755 !important; color: #935f4c  !important; border-color: #a27565 !important; }
 
 .btn:hover { background-color: #935f4c !important; }
 
-table th { background-color: #986755; border-color: #a27565; color: rgba(255, 250, 229, 0.87); }
+table th { background-color: #986755; border-color: #a27565; color: #935f4c; }
 
-table td { background-color: #935f4c; border-color: #a27565; color: rgba(255, 250, 229, 0.69); }
+table td { background-color: #935f4c; border-color: #935f4c; color: rgba(255, 250, 229, 0.69); }
 
 .flash { color: #935f4c !important; filter: brightness(80%); }
 
@@ -459,7 +461,7 @@ canvas { filter: invert(100%); }
 
 .post-list > li > div { box-shadow: none !important; background-color: #986755; border: none !important; }
 
-li .post-meta-description { color: rgba(255, 250, 229, 0.69) !important; }
+li .post-meta-description { color: #935f4c !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/

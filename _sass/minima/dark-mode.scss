@@ -51,7 +51,7 @@ pre, code {
 }
 
 .post-content p, .post-content li {
-    color: #935f4c ;
+    color: $high-emph ;
 }
 
 .btn {
@@ -92,5 +92,5 @@ canvas {
 }
 
 li .post-meta-description {
-    color: #935f4c !important;
+    color: $med-emph !important;
 }

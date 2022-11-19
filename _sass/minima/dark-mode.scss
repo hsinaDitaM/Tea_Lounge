@@ -24,7 +24,7 @@ a:hover {
 }
 
 .site-title, .site-title:visited, .site-nav, .page-link {
-    color: $high-emph !important;
+    color: #935f4c !important;
 }
 
 .site-nav {
@@ -43,7 +43,7 @@ pre, code {
 }
 
 .page-description {
-    color: $med-emph;
+    color: #935f4c ;
 }
 
 .post-meta {
@@ -51,12 +51,12 @@ pre, code {
 }
 
 .post-content p, .post-content li {
-    color: $med-emph;
+    color: #935f4c ;
 }
 
 .btn {
     background-color: $overlay !important;
-    color: $high-emph !important;
+    color: #935f4c  !important;
     border-color: $overlay-light !important;
 }
 
@@ -67,12 +67,12 @@ pre, code {
 table th{
     background-color: $overlay;
     border-color: $overlay-light;
-    color: $high-emph;
+    color: #935f4c ;
 }
 
 table td{
     background-color: $dark-grey;
-    border-color: $overlay-light;
+    border-color: #935f4c;
     color: $med-emph;
 }
 
@@ -92,5 +92,5 @@ canvas {
 }
 
 li .post-meta-description {
-    color: $med-emph !important;
+    color: #935f4c !important;
 }

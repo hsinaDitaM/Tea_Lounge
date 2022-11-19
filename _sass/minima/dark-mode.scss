@@ -6,9 +6,13 @@ $dark-grey : #935f4c;
 $overlay: mix($dark-grey, white, 95%);
 $overlay-light: mix($dark-grey, white, 86%);
 
-html, body, input, textarea, select, button {   
+html, input, textarea, select, button {   
   color: $high-emph !important;
   background-color: #fffae5 !important;
+}
+body{
+    color: $high-emph !important;
+    background-color: #935f4c !important; 
 }
 
 a {
@@ -43,7 +47,7 @@ pre, code {
 }
 
 .post-meta {
-    color: $low-emph;
+    color: #935f4c !important;
 }
 
 .post-content p, .post-content li {

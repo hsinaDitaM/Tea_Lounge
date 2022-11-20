@@ -1,6 +1,9 @@
 $high-emph: rgba(#fffae5, 0.87);
 $med-emph: rgba(#fffae5, 0.69); //Noicee
 $low-emph: rgba(#fffae5, 0.38);
+$high-emph-2: rgba(#935f4c, 0.87);
+$med-emph-2: rgba(#935f4c, 0.69); //Noicee
+$low-emph-2: rgba(#935f4c, 0.38);
 $dark-grey : #935f4c; 
 // $dark-grey : #1F1B24;
 $overlay: mix($dark-grey, white, 95%);
@@ -20,7 +23,7 @@ a {
 }
 
 a:hover {
-    color:$high-emph !important;
+    color:$high-emph-2 !important;
 }
 
 .site-title, .site-title:visited, .site-nav, .page-link {
@@ -28,7 +31,7 @@ a:hover {
 }
 
 .site-nav {
-    background-color: $dark-grey;
+    background-color: $high-emph;
     border-color: $overlay-light;
 }
 
@@ -47,7 +50,7 @@ pre, code {
 }
 
 .post-meta {
-    color: #935f4c !important;
+    color: $high-emph !important;
 }
 
 .post-content p, .post-content li {

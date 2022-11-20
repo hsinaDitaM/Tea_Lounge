@@ -37,7 +37,7 @@ services:
     image: fastai/fastpages-jekyll
     restart: unless-stopped
     ports:
-      - "4000:4000"
+      - "8081:6969"
     volumes:
       - .:/data/
     command: >

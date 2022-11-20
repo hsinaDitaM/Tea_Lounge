@@ -427,11 +427,11 @@ pre code { font-size: 15px !important; }
 
 html, body, input, textarea, select, button { color: rgba(255, 250, 229, 0.87) !important; background-color: #935f4c !important; }
 
-a { color: #935f4c !important; }
+a { color: #c64949 !important; }
 
 a:hover { color: rgba(255, 250, 229, 0.87) !important; }
 
-.site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 250, 229, 0.69) !important; }
+.site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 250, 229, 0.87) !important; }
 
 .site-nav { background-color: #935f4c; border-color: #a27565; }
 
@@ -439,9 +439,9 @@ a:hover { color: rgba(255, 250, 229, 0.87) !important; }
 
 pre, code { border-color: #a27565; background-color: #986755; }
 
-.page-description { color: #935f4c; }
+.page-description { color: rgba(255, 250, 229, 0.69); }
 
-.post-meta { color: #935f4c; }
+.post-meta { color: rgba(255, 250, 229, 0.38); }
 
 .post-content p, .post-content li { color: rgba(255, 250, 229, 0.69); }
 
@@ -459,7 +459,7 @@ canvas { filter: invert(100%); }
 
 .post-list > li > div { box-shadow: none !important; background-color: #986755; border: none !important; }
 
-li .post-meta-description { color: #935f4c !important; }
+li .post-meta-description { color: rgba(255, 250, 229, 0.69) !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/

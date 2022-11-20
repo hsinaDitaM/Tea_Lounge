@@ -12,7 +12,7 @@ html, body, input, textarea, select, button {
 }
 
 a {
-    color: #935f4c !important;
+    color: rgb(198, 73, 73) !important;
 }
 
 a:hover {
@@ -20,7 +20,7 @@ a:hover {
 }
 
 .site-title, .site-title:visited, .site-nav, .page-link {
-    color: $med-emph!important;
+    color: $high-emph !important;
 }
 
 .site-nav {
@@ -39,11 +39,11 @@ pre, code {
 }
 
 .page-description {
-    color: #935f4c;
+    color: $med-emph;
 }
 
 .post-meta {
-    color: $dark-grey;
+    color: $low-emph;
 }
 
 .post-content p, .post-content li {
@@ -88,5 +88,5 @@ canvas {
 }
 
 li .post-meta-description {
-    color: #935f4c !important;
+    color: $med-emph !important;
 }

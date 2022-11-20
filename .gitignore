@@ -8,6 +8,7 @@ _site
 *.xml
 vendor
 _notebooks/.ipynb_checkpoints
+dark-mde.scss
 # Local Netlify folder
 .netlify
 .tweet-cache

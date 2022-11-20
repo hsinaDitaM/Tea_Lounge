@@ -431,11 +431,11 @@ body { color: rgba(255, 250, 229, 0.87) !important; background-color: #935f4c !i
 
 a { color: #935f4c !important; }
 
-a:hover { color: rgba(255, 250, 229, 0.87) !important; }
+a:hover { color: rgba(147, 95, 76, 0.87) !important; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: #935f4c !important; }
 
-.site-nav { background-color: #935f4c; border-color: #a27565; }
+.site-nav { background-color: rgba(255, 250, 229, 0.87); border-color: #a27565; }
 
 * { scrollbar-color: #935f4c #a27565; }
 
@@ -443,7 +443,7 @@ pre, code { border-color: #a27565; background-color: #986755; }
 
 .page-description { color: #935f4c; }
 
-.post-meta { color: #935f4c !important; }
+.post-meta { color: rgba(255, 250, 229, 0.87) !important; }
 
 .post-content p, .post-content li { color: rgba(255, 250, 229, 0.87); }
 

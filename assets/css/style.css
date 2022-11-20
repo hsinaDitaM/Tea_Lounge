@@ -431,7 +431,7 @@ a { color: #935f4c !important; }
 
 a:hover { color: rgba(255, 250, 229, 0.87) !important; }
 
-.site-title, .site-title:visited, .site-nav, .page-link { color: #935f4c !important; }
+.site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 250, 229, 0.69) !important; }
 
 .site-nav { background-color: #935f4c; border-color: #a27565; }
 
@@ -443,7 +443,7 @@ pre, code { border-color: #a27565; background-color: #986755; }
 
 .post-meta { color: #935f4c; }
 
-.post-content p, .post-content li { color: #935f4c; }
+.post-content p, .post-content li { color: rgba(255, 250, 229, 0.69); }
 
 .btn { background-color: #986755 !important; color: rgba(255, 250, 229, 0.87) !important; border-color: #a27565 !important; }
 

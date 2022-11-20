@@ -20,7 +20,7 @@ a:hover {
 }
 
 .site-title, .site-title:visited, .site-nav, .page-link {
-    color: #935f4c!important;
+    color: $med-emph!important;
 }
 
 .site-nav {
@@ -43,11 +43,11 @@ pre, code {
 }
 
 .post-meta {
-    color: #935f4c;
+    color: $dark-grey;
 }
 
 .post-content p, .post-content li {
-    color: #935f4c;
+    color: $med-emph;
 }
 
 .btn {

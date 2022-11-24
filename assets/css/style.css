@@ -471,7 +471,7 @@ li .post-meta-description { color: rgba(147, 95, 76, 0.69) !important; }
 
 .language-python + .language-plaintext pre { background-color: white !important; }
 
-.input_area pre, .input_area div { margin-bottom: 1.0rem !important; margin-top: 1.5rem !important; padding-bottom: 0 !important; padding-top: 0 !important; background: #323443 !important; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: Menlo, Monaco, Consolas, "Lucida Console", Roboto, Ubuntu, monospace; border-radius: 5px; font-size: 105%; }
+.input_area pre, .input_area div { margin-bottom: 1.0rem !important; margin-top: 1.5rem !important; padding-bottom: 0 !important; padding-top: 0 !important; background: #56382D !important; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: Menlo, Monaco, Consolas, "Lucida Console", Roboto, Ubuntu, monospace; border-radius: 5px; font-size: 105%; }
 
 .output_area pre, .output_area div { margin-bottom: 1rem !important; margin-top: 0rem !important; padding-bottom: 0 !important; padding-top: 0 !important; }
 
@@ -490,7 +490,7 @@ li .post-meta-description { color: rgba(147, 95, 76, 0.69) !important; }
 
 .highlight .go { color: #44475a; }
 
-.highlight .err, .highlight .g, .highlight .l, .highlight .n, .highlight .x, .highlight .ge, .highlight .gr, .highlight .gh, .highlight .gi, .highlight .gp, .highlight .gs, .highlight .gu, .highlight .gt, .highlight .ld, .highlight .no, .highlight .nd, .highlight .pi, .highlight .ni, .highlight .ne, .highlight .nn, .highlight .nx, .highlight .py, .highlight .w, .highlight .bp { color: #f8f8f2; background-color: #323443 !important; }
+.highlight .err, .highlight .g, .highlight .l, .highlight .n, .highlight .x, .highlight .ge, .highlight .gr, .highlight .gh, .highlight .gi, .highlight .gp, .highlight .gs, .highlight .gu, .highlight .gt, .highlight .ld, .highlight .no, .highlight .nd, .highlight .pi, .highlight .ni, .highlight .ne, .highlight .nn, .highlight .nx, .highlight .py, .highlight .w, .highlight .bp { color: #f8f8f2; background-color: #56382D !important; }
 
 .highlight .p { font-weight: bold; color: #66d9ef; }
 
